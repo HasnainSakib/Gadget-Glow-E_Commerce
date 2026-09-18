@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <defs>
+    <linearGradient id="nagadGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7921e"/>
+      <stop offset="100%" stop-color="#d9381e"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="32" fill="url(#nagadGrad)"/>
+  <!-- Nagad Emblem -->
+  <g transform="translate(80,68) scale(1.1)">
+    <circle cx="0" cy="0" r="32" fill="none" stroke="#ffffff" stroke-width="10"/>
+    <path d="M -16 -16 C -6 -28, 16 -28, 26 -16 C 16 -4, 6 12, 16 26" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="2" cy="0" r="8" fill="#ffffff"/>
+  </g>
+  <!-- Nagad Bengali Text -->
+  <text x="80" y="138" font-family="'SolaimanLipi', 'Kalpurush', sans-serif" font-weight="bold" font-size="28" fill="#ffffff" text-anchor="middle">নগদ</text>
+</svg>

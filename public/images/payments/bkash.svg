@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <rect width="160" height="160" rx="32" fill="#e2136e"/>
+  <!-- bKash Origami Bird Logo -->
+  <path d="M 38 122 L 80 44 L 122 122 L 84 94 Z" fill="#ffffff"/>
+  <path d="M 80 44 L 122 84 L 80 94 Z" fill="#fce4ec"/>
+  <path d="M 80 94 L 122 122 L 98 108 Z" fill="#f8bbd0"/>
+  <!-- bKash Text -->
+  <text x="80" y="145" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="20" fill="#ffffff" text-anchor="middle" letter-spacing="1">bKash</text>
+</svg>
